@@ -6,7 +6,7 @@
 
 <h1 style="color: #4a9b54">🧑‍💻 Data Engineer</h1>
 
-ç### 🏢 Currently working at [**DriveRevel**](https://driverevel.com/).
+### 🏢 Currently working at [**DriveRevel**](https://driverevel.com/).
 ### 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pabloruedas/).
 
 # 🔧 Some of my stack
