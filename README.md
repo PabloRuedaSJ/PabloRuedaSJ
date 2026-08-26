@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 style="color: #4a9b54">🧑‍💻 Data Engineer</h1>
+# 🧑‍💻 Data Engineer
 
 ### 🏢 Currently working at [**DriveRevel**](https://driverevel.com/).
 ### 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pabloruedas/).
@@ -12,12 +12,14 @@
 # 🔧 Some of my stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-edf257?style=for-the-badge&logo=python&logoColor=4381b3" />
+<img src="https://img.shields.io/badge/Python-4381b3?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-fe9900?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-edf257?style=for-the-badge&logo=apacheairflow&logoColor=black" /> 
 <img src="https://img.shields.io/badge/PostgreSQL-4381b3?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-fe9900?
-style=for-the-badge" />
-<img src="https://img.shields.io/badge/Airflow-4381b3?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Git-fe9900?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-fe9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PowerBI-edf257?style=for-the-badge&logo=soundcharts&logoColor=black" /> 
+<img src="https://img.shields.io/badge/DataDog-4381b3?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-fe9900?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
