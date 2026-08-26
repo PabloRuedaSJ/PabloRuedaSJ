@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/AWS-fe9900?style=for-the-badge&logo=icloud&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4381b3?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-fe9900?
-style=for-the-badge&logo=dbt&logoColor=39FF14" />
+style=for-the-badge" />
 <img src="https://img.shields.io/badge/Airflow-4381b3?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Git-fe9900?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
