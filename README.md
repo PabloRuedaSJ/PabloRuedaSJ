@@ -9,7 +9,7 @@
 ### 🏢 Currently working at [**DriveRevel**](https://driverevel.com/).
 ### 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pabloruedas/).
 
-# 🔧 Some of my stack
+# 🔧 Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-4381b3?style=for-the-badge&logo=python&logoColor=white" />
