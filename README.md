@@ -8,7 +8,7 @@
 
 ### 💻 Working at [DriveRevel](https://driverevel.com/).
 ### 🧑‍💻 Role as [Lead Data Engineer](https://www.youtube.com/watch?v=qWru-b6m030).
-### 🏠 Works from [Córdoba, Spain](https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain).
+### 🏠 Works from [Córdoba, Spain](https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain) (Remote).
 ### 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pabloruedas/).
 
 # 🔧 Stack
