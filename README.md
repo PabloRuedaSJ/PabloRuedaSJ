@@ -1,12 +1,14 @@
-<div align="right">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:71f582,100:edf257&text=Pablo%20Rueda&descAlign=55&descAlignY=50&strokeWidth=2&animation=blink&reversal=false&section=header&fontColor=71f582&fontSize=50&fontAlign=60&rotate=-10&descSize=106&stroke=076320&textBg=false&fontFamily=cursive" width="100%"/>
 </div>
 
 <br>
 
-# 🧑‍💻 Data Engineer
+# 👋 About me
 
-### 🏢 Currently working at [**DriveRevel**](https://driverevel.com/).
+### 💻 Working at [DriveRevel](https://driverevel.com/).
+### 🧑‍💻 Role as [Lead Data Engineer](https://www.youtube.com/watch?v=qWru-b6m030).
+### 🏠 Works from [Córdoba, Spain](https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain).
 ### 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/pabloruedas/).
 
 # 🔧 Stack
